@@ -1,3 +1,3 @@
 # simple_chatbot
 
-Python, NLTK Kütüphanesi ile basit bir chatbot uygulaması
+A simple chatbot application with Python, NLTK Library
